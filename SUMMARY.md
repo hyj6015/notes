@@ -4,7 +4,7 @@
 * [格式](format/README.md)
    * [章节和子章节](format/chapters.md)
    * [Markdown](format/markdown.md)
+* [双系统的安装](shuang_xi_tong_de_an_zhuang.md)
 * [目录](双系统的安装.md)
 * [如何在 ubuntu 下安装搜狗输入法](posts/work03.md)
-* [双系统的安装](shuang_xi_tong_de_an_zhuang.md)
 
